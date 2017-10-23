@@ -13,7 +13,8 @@
         android:hint="Input"
         android:textSize="40sp"
         android:layout_margin="10dp"
-        android:layout_weight="1"/>
+        android:layout_weight="1"
+        android:text="0"/>
     <TextView
         android:id="@+id/resultTextView"
         android:layout_width="match_parent"
